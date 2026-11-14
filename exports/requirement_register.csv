@@ -1,0 +1,31 @@
+requirement_id,category,text,mandatory,quantity,unit,threshold,deadline,status,source_document,source_page,source_quote
+REQ-001,scope,Bidder shall provide requirement item 01 for the tender package.,True,,,,,active,tender_requirements.pdf,1,R01: Bidder shall provide requirement item 01 for the tender package.
+REQ-002,technical,Bidder shall provide requirement item 02 for the tender package.,True,,,,,active,tender_requirements.pdf,1,R02: Bidder shall provide requirement item 02 for the tender package.
+REQ-003,submission,Bidder shall provide requirement item 03 for the tender package.,True,,,,,active,tender_requirements.pdf,1,R03: Bidder shall provide requirement item 03 for the tender package.
+REQ-004,deadline,Bidder shall provide requirement item 04 for the tender package.,True,,,,,active,tender_requirements.pdf,1,R04: Bidder shall provide requirement item 04 for the tender package.
+REQ-005,commercial,Bid security shall be valid for 90 days.,True,5,each,,,superseded,tender_requirements.pdf,1,R05: Bid security shall be valid for 90 days.
+REQ-006,exclusion,Bid security shall be valid for 120 days.,True,,,>= 86%,,active,tender_requirements.pdf,2,R06: Amendment A1 states bid security shall be valid for 120 days.
+REQ-007,evaluation,Bidder shall provide requirement item 07 for the tender package.,False,,,,,active,tender_requirements.pdf,2,R07: Bidder shall provide requirement item 07 for the tender package.
+REQ-008,scope,Bidder shall provide requirement item 08 for the tender package.,True,,,,2026-12-09,active,tender_requirements.pdf,2,R08: Bidder shall provide requirement item 08 for the tender package.
+REQ-009,technical,Bidder shall provide requirement item 09 for the tender package.,True,,,,,active,tender_requirements.pdf,2,R09: Bidder shall provide requirement item 09 for the tender package.
+REQ-010,submission,Warranty period shall be 12 months.,True,10,each,,,active,tender_requirements.pdf,2,R10: Warranty period shall be 12 months.
+REQ-011,deadline,Warranty period shall be 24 months.,True,,,,,active,tender_requirements.pdf,3,R11: Warranty period shall be 24 months.
+REQ-012,commercial,Bidder shall provide requirement item 12 for the tender package.,True,,,>= 82%,,active,tender_requirements.pdf,3,R12: Bidder shall provide requirement item 12 for the tender package.
+REQ-013,exclusion,Bidder shall provide requirement item 13 for the tender package.,True,,,,,active,tender_requirements.pdf,3,R13: Bidder shall provide requirement item 13 for the tender package.
+REQ-014,evaluation,Bidder shall provide requirement item 14 for the tender package.,False,,,,,active,tender_requirements.pdf,3,R14: Bidder shall provide requirement item 14 for the tender package.
+REQ-015,scope,Bidder shall provide requirement item 15 for the tender package.,True,15,each,,,active,tender_requirements.pdf,3,R15: Bidder shall provide requirement item 15 for the tender package.
+REQ-016,technical,Bidder shall provide requirement item 16 for the tender package.,True,,,,2026-12-17,active,tender_requirements.pdf,4,R16: Bidder shall provide requirement item 16 for the tender package.
+REQ-017,submission,Bidder shall provide requirement item 17 for the tender package.,True,,,,,active,tender_requirements.pdf,4,R17: Bidder shall provide requirement item 17 for the tender package.
+REQ-018,deadline,Bidder shall provide requirement item 18 for the tender package.,True,,,>= 88%,,active,tender_requirements.pdf,4,R18: Bidder shall provide requirement item 18 for the tender package.
+REQ-019,commercial,Bidder shall provide requirement item 19 for the tender package.,True,,,,,active,tender_requirements.pdf,4,R19: Bidder shall provide requirement item 19 for the tender package.
+REQ-020,exclusion,Bidder shall provide requirement item 20 for the tender package.,True,20,each,,,active,tender_requirements.pdf,4,R20: Bidder shall provide requirement item 20 for the tender package.
+REQ-021,evaluation,Bidder shall provide requirement item 21 for the tender package.,False,,,,,active,tender_requirements.pdf,5,R21: Bidder shall provide requirement item 21 for the tender package.
+REQ-022,scope,Bidder shall provide requirement item 22 for the tender package.,True,,,,,active,tender_requirements.pdf,5,R22: Bidder shall provide requirement item 22 for the tender package.
+REQ-023,technical,Bidder shall provide requirement item 23 for the tender package.,True,,,,,active,tender_requirements.pdf,5,R23: Bidder shall provide requirement item 23 for the tender package.
+REQ-024,submission,Bidder shall provide requirement item 24 for the tender package.,True,,,>= 84%,2026-12-05,active,tender_requirements.pdf,5,R24: Bidder shall provide requirement item 24 for the tender package.
+REQ-025,deadline,Bidder shall provide requirement item 25 for the tender package.,True,25,each,,,active,tender_requirements.pdf,5,R25: Bidder shall provide requirement item 25 for the tender package.
+REQ-026,commercial,Bidder shall provide requirement item 26 for the tender package.,True,,,,,active,tender_requirements.pdf,6,R26: Bidder shall provide requirement item 26 for the tender package.
+REQ-027,exclusion,Bidder shall provide requirement item 27 for the tender package.,True,,,,,active,tender_requirements.pdf,6,R27: Bidder shall provide requirement item 27 for the tender package.
+REQ-028,evaluation,Bidder shall provide requirement item 28 for the tender package.,False,,,,,active,tender_requirements.pdf,6,R28: Bidder shall provide requirement item 28 for the tender package.
+REQ-029,scope,Bidder shall provide requirement item 29 for the tender package.,True,,,,,active,tender_requirements.pdf,6,R29: Bidder shall provide requirement item 29 for the tender package.
+REQ-030,technical,Bidder shall provide requirement item 30 for the tender package.,True,30,each,>= 80%,,active,tender_requirements.pdf,6,R30: Bidder shall provide requirement item 30 for the tender package.

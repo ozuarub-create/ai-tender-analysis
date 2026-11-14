@@ -1,0 +1,484 @@
+[
+  {
+    "requirement_id": "REQ-001",
+    "category": "scope",
+    "text": "Bidder shall provide requirement item 01 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 1,
+      "quote": "R01: Bidder shall provide requirement item 01 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-002",
+    "category": "technical",
+    "text": "Bidder shall provide requirement item 02 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 1,
+      "quote": "R02: Bidder shall provide requirement item 02 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-003",
+    "category": "submission",
+    "text": "Bidder shall provide requirement item 03 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 1,
+      "quote": "R03: Bidder shall provide requirement item 03 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-004",
+    "category": "deadline",
+    "text": "Bidder shall provide requirement item 04 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 1,
+      "quote": "R04: Bidder shall provide requirement item 04 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-005",
+    "category": "commercial",
+    "text": "Bid security shall be valid for 90 days.",
+    "mandatory": true,
+    "quantity": 5,
+    "unit": "each",
+    "threshold": null,
+    "deadline": null,
+    "status": "superseded",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 1,
+      "quote": "R05: Bid security shall be valid for 90 days."
+    }
+  },
+  {
+    "requirement_id": "REQ-006",
+    "category": "exclusion",
+    "text": "Bid security shall be valid for 120 days.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": ">= 86%",
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 2,
+      "quote": "R06: Amendment A1 states bid security shall be valid for 120 days."
+    },
+    "amendment": "A1",
+    "supersedes": "REQ-005"
+  },
+  {
+    "requirement_id": "REQ-007",
+    "category": "evaluation",
+    "text": "Bidder shall provide requirement item 07 for the tender package.",
+    "mandatory": false,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 2,
+      "quote": "R07: Bidder shall provide requirement item 07 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-008",
+    "category": "scope",
+    "text": "Bidder shall provide requirement item 08 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": "2026-12-09",
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 2,
+      "quote": "R08: Bidder shall provide requirement item 08 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-009",
+    "category": "technical",
+    "text": "Bidder shall provide requirement item 09 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 2,
+      "quote": "R09: Bidder shall provide requirement item 09 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-010",
+    "category": "submission",
+    "text": "Warranty period shall be 12 months.",
+    "mandatory": true,
+    "quantity": 10,
+    "unit": "each",
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 2,
+      "quote": "R10: Warranty period shall be 12 months."
+    }
+  },
+  {
+    "requirement_id": "REQ-011",
+    "category": "deadline",
+    "text": "Warranty period shall be 24 months.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 3,
+      "quote": "R11: Warranty period shall be 24 months."
+    }
+  },
+  {
+    "requirement_id": "REQ-012",
+    "category": "commercial",
+    "text": "Bidder shall provide requirement item 12 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": ">= 82%",
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 3,
+      "quote": "R12: Bidder shall provide requirement item 12 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-013",
+    "category": "exclusion",
+    "text": "Bidder shall provide requirement item 13 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 3,
+      "quote": "R13: Bidder shall provide requirement item 13 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-014",
+    "category": "evaluation",
+    "text": "Bidder shall provide requirement item 14 for the tender package.",
+    "mandatory": false,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 3,
+      "quote": "R14: Bidder shall provide requirement item 14 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-015",
+    "category": "scope",
+    "text": "Bidder shall provide requirement item 15 for the tender package.",
+    "mandatory": true,
+    "quantity": 15,
+    "unit": "each",
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 3,
+      "quote": "R15: Bidder shall provide requirement item 15 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-016",
+    "category": "technical",
+    "text": "Bidder shall provide requirement item 16 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": "2026-12-17",
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 4,
+      "quote": "R16: Bidder shall provide requirement item 16 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-017",
+    "category": "submission",
+    "text": "Bidder shall provide requirement item 17 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 4,
+      "quote": "R17: Bidder shall provide requirement item 17 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-018",
+    "category": "deadline",
+    "text": "Bidder shall provide requirement item 18 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": ">= 88%",
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 4,
+      "quote": "R18: Bidder shall provide requirement item 18 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-019",
+    "category": "commercial",
+    "text": "Bidder shall provide requirement item 19 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 4,
+      "quote": "R19: Bidder shall provide requirement item 19 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-020",
+    "category": "exclusion",
+    "text": "Bidder shall provide requirement item 20 for the tender package.",
+    "mandatory": true,
+    "quantity": 20,
+    "unit": "each",
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 4,
+      "quote": "R20: Bidder shall provide requirement item 20 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-021",
+    "category": "evaluation",
+    "text": "Bidder shall provide requirement item 21 for the tender package.",
+    "mandatory": false,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 5,
+      "quote": "R21: Bidder shall provide requirement item 21 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-022",
+    "category": "scope",
+    "text": "Bidder shall provide requirement item 22 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 5,
+      "quote": "R22: Bidder shall provide requirement item 22 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-023",
+    "category": "technical",
+    "text": "Bidder shall provide requirement item 23 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 5,
+      "quote": "R23: Bidder shall provide requirement item 23 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-024",
+    "category": "submission",
+    "text": "Bidder shall provide requirement item 24 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": ">= 84%",
+    "deadline": "2026-12-05",
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 5,
+      "quote": "R24: Bidder shall provide requirement item 24 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-025",
+    "category": "deadline",
+    "text": "Bidder shall provide requirement item 25 for the tender package.",
+    "mandatory": true,
+    "quantity": 25,
+    "unit": "each",
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 5,
+      "quote": "R25: Bidder shall provide requirement item 25 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-026",
+    "category": "commercial",
+    "text": "Bidder shall provide requirement item 26 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 6,
+      "quote": "R26: Bidder shall provide requirement item 26 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-027",
+    "category": "exclusion",
+    "text": "Bidder shall provide requirement item 27 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 6,
+      "quote": "R27: Bidder shall provide requirement item 27 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-028",
+    "category": "evaluation",
+    "text": "Bidder shall provide requirement item 28 for the tender package.",
+    "mandatory": false,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 6,
+      "quote": "R28: Bidder shall provide requirement item 28 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-029",
+    "category": "scope",
+    "text": "Bidder shall provide requirement item 29 for the tender package.",
+    "mandatory": true,
+    "quantity": null,
+    "unit": null,
+    "threshold": null,
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 6,
+      "quote": "R29: Bidder shall provide requirement item 29 for the tender package."
+    }
+  },
+  {
+    "requirement_id": "REQ-030",
+    "category": "technical",
+    "text": "Bidder shall provide requirement item 30 for the tender package.",
+    "mandatory": true,
+    "quantity": 30,
+    "unit": "each",
+    "threshold": ">= 80%",
+    "deadline": null,
+    "status": "active",
+    "source": {
+      "document": "tender_requirements.pdf",
+      "page": 6,
+      "quote": "R30: Bidder shall provide requirement item 30 for the tender package."
+    }
+  }
+]

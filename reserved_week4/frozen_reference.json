@@ -1,0 +1,82 @@
+[
+  {
+    "requirement_id": "W4-REQ-001",
+    "text": "Reserved requirement 1",
+    "mandatory": true,
+    "compliance_label": "compliant",
+    "boq_line": 1,
+    "commercial_value": 1000
+  },
+  {
+    "requirement_id": "W4-REQ-002",
+    "text": "Reserved requirement 2",
+    "mandatory": true,
+    "compliance_label": "compliant",
+    "boq_line": 2,
+    "commercial_value": 2000
+  },
+  {
+    "requirement_id": "W4-REQ-003",
+    "text": "Reserved requirement 3",
+    "mandatory": true,
+    "compliance_label": "partial",
+    "boq_line": 3,
+    "commercial_value": 3000
+  },
+  {
+    "requirement_id": "W4-REQ-004",
+    "text": "Reserved requirement 4",
+    "mandatory": true,
+    "compliance_label": "compliant",
+    "boq_line": 4,
+    "commercial_value": 4000
+  },
+  {
+    "requirement_id": "W4-REQ-005",
+    "text": "Reserved requirement 5",
+    "mandatory": true,
+    "compliance_label": "compliant",
+    "boq_line": 5,
+    "commercial_value": 5000
+  },
+  {
+    "requirement_id": "W4-REQ-006",
+    "text": "Reserved requirement 6",
+    "mandatory": true,
+    "compliance_label": "partial",
+    "boq_line": 6,
+    "commercial_value": 6000
+  },
+  {
+    "requirement_id": "W4-REQ-007",
+    "text": "Reserved requirement 7",
+    "mandatory": true,
+    "compliance_label": "compliant",
+    "boq_line": 7,
+    "commercial_value": 7000
+  },
+  {
+    "requirement_id": "W4-REQ-008",
+    "text": "Reserved requirement 8",
+    "mandatory": true,
+    "compliance_label": "compliant",
+    "boq_line": 8,
+    "commercial_value": 8000
+  },
+  {
+    "requirement_id": "W4-REQ-009",
+    "text": "Reserved requirement 9",
+    "mandatory": true,
+    "compliance_label": "partial",
+    "boq_line": 9,
+    "commercial_value": 9000
+  },
+  {
+    "requirement_id": "W4-REQ-010",
+    "text": "Reserved requirement 10",
+    "mandatory": false,
+    "compliance_label": "compliant",
+    "boq_line": 10,
+    "commercial_value": 10000
+  }
+]
