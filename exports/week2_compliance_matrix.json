@@ -1,0 +1,1712 @@
+[
+  {
+    "requirement_id": "REQ-001",
+    "bidder_id": "BIDDER-1",
+    "category": "scope",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 1.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-001 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=3",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-001",
+    "bidder_id": "BIDDER-2",
+    "category": "scope",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 1.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-001 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=4",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-001",
+    "bidder_id": "BIDDER-3",
+    "category": "scope",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 1.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-3 addresses REQ-001 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=5",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-001 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-002",
+    "bidder_id": "BIDDER-1",
+    "category": "technical",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 1.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-002 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=4",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-002",
+    "bidder_id": "BIDDER-2",
+    "category": "technical",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 1.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-2 addresses REQ-002 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=5",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-002 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-002",
+    "bidder_id": "BIDDER-3",
+    "category": "technical",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 1.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-3 addresses REQ-002 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=1",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-002 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-003",
+    "bidder_id": "BIDDER-1",
+    "category": "submission",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 1.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-1 addresses REQ-003 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=5",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-003 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-003",
+    "bidder_id": "BIDDER-2",
+    "category": "submission",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 1.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-2 addresses REQ-003 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=1",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-003 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-003",
+    "bidder_id": "BIDDER-3",
+    "category": "submission",
+    "mandatory": true,
+    "status": "not met",
+    "tender_reference": "Clause 1.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-3 expressly excludes REQ-003 from the offered scope.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=2",
+    "rationale": "Bidder evidence contains an explicit exclusion, rejection, or conflicting commitment.",
+    "unresolved_question": "Please clarify compliance with REQ-003 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "exclusion",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-004",
+    "bidder_id": "BIDDER-1",
+    "category": "deadline",
+    "mandatory": false,
+    "status": "partially met",
+    "tender_reference": "Clause 1.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-1 addresses REQ-004 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=1",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-004 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-004",
+    "bidder_id": "BIDDER-2",
+    "category": "deadline",
+    "mandatory": false,
+    "status": "not met",
+    "tender_reference": "Clause 1.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-2 expressly excludes REQ-004 from the offered scope.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=2",
+    "rationale": "Bidder evidence contains an explicit exclusion, rejection, or conflicting commitment.",
+    "unresolved_question": "Please clarify compliance with REQ-004 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "exclusion",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-004",
+    "bidder_id": "BIDDER-3",
+    "category": "deadline",
+    "mandatory": false,
+    "status": "not evidenced",
+    "tender_reference": "Clause 1.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": null,
+    "bid_source": null,
+    "rationale": "No sufficient bidder evidence was found in the searched bid documents.",
+    "unresolved_question": "Please clarify compliance with REQ-004 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-005",
+    "bidder_id": "BIDDER-1",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "not met",
+    "tender_reference": "Clause 1.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-1 expressly excludes REQ-005 from the offered scope.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=2",
+    "rationale": "Bidder evidence contains an explicit exclusion, rejection, or conflicting commitment.",
+    "unresolved_question": "Please clarify compliance with REQ-005 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "exclusion",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-005",
+    "bidder_id": "BIDDER-2",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "not evidenced",
+    "tender_reference": "Clause 1.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": null,
+    "bid_source": null,
+    "rationale": "No sufficient bidder evidence was found in the searched bid documents.",
+    "unresolved_question": "Please clarify compliance with REQ-005 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-005",
+    "bidder_id": "BIDDER-3",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "not applicable",
+    "tender_reference": "Clause 1.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-3 scope schedule confirms the optional subsystem is excluded from tendered scope.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=4",
+    "rationale": "Recorded scope justification confirms the requirement does not apply to this bidder's offered scope.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": "REQ-005 applies only to an optional subsystem not included in BIDDER-3 scope.",
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-006",
+    "bidder_id": "BIDDER-1",
+    "category": "evaluation",
+    "mandatory": true,
+    "status": "not evidenced",
+    "tender_reference": "Clause 2.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": null,
+    "bid_source": null,
+    "rationale": "No sufficient bidder evidence was found in the searched bid documents.",
+    "unresolved_question": "Please clarify compliance with REQ-006 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-006",
+    "bidder_id": "BIDDER-2",
+    "category": "evaluation",
+    "mandatory": true,
+    "status": "not applicable",
+    "tender_reference": "Clause 2.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-2 scope schedule confirms the optional subsystem is excluded from tendered scope.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=4",
+    "rationale": "Recorded scope justification confirms the requirement does not apply to this bidder's offered scope.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": "REQ-006 applies only to an optional subsystem not included in BIDDER-2 scope.",
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-006",
+    "bidder_id": "BIDDER-3",
+    "category": "evaluation",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 2.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=1",
+    "bid_evidence": "BIDDER-3 states compliance with REQ-006 in the technical response but a later schedule contains a conflicting limitation.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=5",
+    "rationale": "Supporting and contradictory statements are both present, so full compliance is not established.",
+    "unresolved_question": "Please clarify compliance with REQ-006 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "contradiction",
+    "scope_justification": null,
+    "contradiction": true
+  },
+  {
+    "requirement_id": "REQ-007",
+    "bidder_id": "BIDDER-1",
+    "category": "scope",
+    "mandatory": true,
+    "status": "not applicable",
+    "tender_reference": "Clause 2.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-1 scope schedule confirms the optional subsystem is excluded from tendered scope.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=4",
+    "rationale": "Recorded scope justification confirms the requirement does not apply to this bidder's offered scope.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": "REQ-007 applies only to an optional subsystem not included in BIDDER-1 scope.",
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-007",
+    "bidder_id": "BIDDER-2",
+    "category": "scope",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 2.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-2 states compliance with REQ-007 in the technical response but a later schedule contains a conflicting limitation.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=5",
+    "rationale": "Supporting and contradictory statements are both present, so full compliance is not established.",
+    "unresolved_question": "Please clarify compliance with REQ-007 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "contradiction",
+    "scope_justification": null,
+    "contradiction": true
+  },
+  {
+    "requirement_id": "REQ-007",
+    "bidder_id": "BIDDER-3",
+    "category": "scope",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 2.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-007 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=1",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-008",
+    "bidder_id": "BIDDER-1",
+    "category": "technical",
+    "mandatory": false,
+    "status": "partially met",
+    "tender_reference": "Clause 2.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-1 states compliance with REQ-008 in the technical response but a later schedule contains a conflicting limitation.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=5",
+    "rationale": "Supporting and contradictory statements are both present, so full compliance is not established.",
+    "unresolved_question": "Please clarify compliance with REQ-008 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "contradiction",
+    "scope_justification": null,
+    "contradiction": true
+  },
+  {
+    "requirement_id": "REQ-008",
+    "bidder_id": "BIDDER-2",
+    "category": "technical",
+    "mandatory": false,
+    "status": "met",
+    "tender_reference": "Clause 2.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-008 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=1",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-008",
+    "bidder_id": "BIDDER-3",
+    "category": "technical",
+    "mandatory": false,
+    "status": "met",
+    "tender_reference": "Clause 2.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-008 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=2",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-009",
+    "bidder_id": "BIDDER-1",
+    "category": "submission",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 2.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-009 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=1",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-009",
+    "bidder_id": "BIDDER-2",
+    "category": "submission",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 2.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-009 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=2",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-009",
+    "bidder_id": "BIDDER-3",
+    "category": "submission",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 2.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-009 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=3",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-010",
+    "bidder_id": "BIDDER-1",
+    "category": "deadline",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 2.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-010 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=2",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-010",
+    "bidder_id": "BIDDER-2",
+    "category": "deadline",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 2.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-010 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=3",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-010",
+    "bidder_id": "BIDDER-3",
+    "category": "deadline",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 2.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-010 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=4",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-011",
+    "bidder_id": "BIDDER-1",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 3.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-011 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=3",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-011",
+    "bidder_id": "BIDDER-2",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 3.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-011 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=4",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-011",
+    "bidder_id": "BIDDER-3",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 3.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-3 addresses REQ-011 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=5",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-011 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-012",
+    "bidder_id": "BIDDER-1",
+    "category": "evaluation",
+    "mandatory": false,
+    "status": "met",
+    "tender_reference": "Clause 3.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-012 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=4",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-012",
+    "bidder_id": "BIDDER-2",
+    "category": "evaluation",
+    "mandatory": false,
+    "status": "partially met",
+    "tender_reference": "Clause 3.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-2 addresses REQ-012 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=5",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-012 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-012",
+    "bidder_id": "BIDDER-3",
+    "category": "evaluation",
+    "mandatory": false,
+    "status": "partially met",
+    "tender_reference": "Clause 3.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=2",
+    "bid_evidence": "BIDDER-3 addresses REQ-012 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=1",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-012 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-013",
+    "bidder_id": "BIDDER-1",
+    "category": "scope",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 3.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-1 addresses REQ-013 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=5",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-013 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-013",
+    "bidder_id": "BIDDER-2",
+    "category": "scope",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 3.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-2 addresses REQ-013 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=1",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-013 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-013",
+    "bidder_id": "BIDDER-3",
+    "category": "scope",
+    "mandatory": true,
+    "status": "not met",
+    "tender_reference": "Clause 3.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-3 expressly excludes REQ-013 from the offered scope.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=2",
+    "rationale": "Bidder evidence contains an explicit exclusion, rejection, or conflicting commitment.",
+    "unresolved_question": "Please clarify compliance with REQ-013 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "exclusion",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-014",
+    "bidder_id": "BIDDER-1",
+    "category": "technical",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 3.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-1 addresses REQ-014 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=1",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-014 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-014",
+    "bidder_id": "BIDDER-2",
+    "category": "technical",
+    "mandatory": true,
+    "status": "not met",
+    "tender_reference": "Clause 3.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-2 expressly excludes REQ-014 from the offered scope.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=2",
+    "rationale": "Bidder evidence contains an explicit exclusion, rejection, or conflicting commitment.",
+    "unresolved_question": "Please clarify compliance with REQ-014 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "exclusion",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-014",
+    "bidder_id": "BIDDER-3",
+    "category": "technical",
+    "mandatory": true,
+    "status": "not evidenced",
+    "tender_reference": "Clause 3.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": null,
+    "bid_source": null,
+    "rationale": "No sufficient bidder evidence was found in the searched bid documents.",
+    "unresolved_question": "Please clarify compliance with REQ-014 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-015",
+    "bidder_id": "BIDDER-1",
+    "category": "submission",
+    "mandatory": true,
+    "status": "not met",
+    "tender_reference": "Clause 3.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-1 expressly excludes REQ-015 from the offered scope.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=2",
+    "rationale": "Bidder evidence contains an explicit exclusion, rejection, or conflicting commitment.",
+    "unresolved_question": "Please clarify compliance with REQ-015 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "exclusion",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-015",
+    "bidder_id": "BIDDER-2",
+    "category": "submission",
+    "mandatory": true,
+    "status": "not evidenced",
+    "tender_reference": "Clause 3.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": null,
+    "bid_source": null,
+    "rationale": "No sufficient bidder evidence was found in the searched bid documents.",
+    "unresolved_question": "Please clarify compliance with REQ-015 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-015",
+    "bidder_id": "BIDDER-3",
+    "category": "submission",
+    "mandatory": true,
+    "status": "not applicable",
+    "tender_reference": "Clause 3.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-3 scope schedule confirms the optional subsystem is excluded from tendered scope.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=4",
+    "rationale": "Recorded scope justification confirms the requirement does not apply to this bidder's offered scope.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": "REQ-015 applies only to an optional subsystem not included in BIDDER-3 scope.",
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-016",
+    "bidder_id": "BIDDER-1",
+    "category": "deadline",
+    "mandatory": false,
+    "status": "not evidenced",
+    "tender_reference": "Clause 4.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": null,
+    "bid_source": null,
+    "rationale": "No sufficient bidder evidence was found in the searched bid documents.",
+    "unresolved_question": "Please clarify compliance with REQ-016 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-016",
+    "bidder_id": "BIDDER-2",
+    "category": "deadline",
+    "mandatory": false,
+    "status": "not applicable",
+    "tender_reference": "Clause 4.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-2 scope schedule confirms the optional subsystem is excluded from tendered scope.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=4",
+    "rationale": "Recorded scope justification confirms the requirement does not apply to this bidder's offered scope.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": "REQ-016 applies only to an optional subsystem not included in BIDDER-2 scope.",
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-016",
+    "bidder_id": "BIDDER-3",
+    "category": "deadline",
+    "mandatory": false,
+    "status": "partially met",
+    "tender_reference": "Clause 4.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-3 states compliance with REQ-016 in the technical response but a later schedule contains a conflicting limitation.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=5",
+    "rationale": "Supporting and contradictory statements are both present, so full compliance is not established.",
+    "unresolved_question": "Please clarify compliance with REQ-016 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "contradiction",
+    "scope_justification": null,
+    "contradiction": true
+  },
+  {
+    "requirement_id": "REQ-017",
+    "bidder_id": "BIDDER-1",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "not applicable",
+    "tender_reference": "Clause 4.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-1 scope schedule confirms the optional subsystem is excluded from tendered scope.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=4",
+    "rationale": "Recorded scope justification confirms the requirement does not apply to this bidder's offered scope.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": "REQ-017 applies only to an optional subsystem not included in BIDDER-1 scope.",
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-017",
+    "bidder_id": "BIDDER-2",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 4.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-2 states compliance with REQ-017 in the technical response but a later schedule contains a conflicting limitation.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=5",
+    "rationale": "Supporting and contradictory statements are both present, so full compliance is not established.",
+    "unresolved_question": "Please clarify compliance with REQ-017 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "contradiction",
+    "scope_justification": null,
+    "contradiction": true
+  },
+  {
+    "requirement_id": "REQ-017",
+    "bidder_id": "BIDDER-3",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 4.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-017 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=1",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-018",
+    "bidder_id": "BIDDER-1",
+    "category": "evaluation",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 4.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-1 states compliance with REQ-018 in the technical response but a later schedule contains a conflicting limitation.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=5",
+    "rationale": "Supporting and contradictory statements are both present, so full compliance is not established.",
+    "unresolved_question": "Please clarify compliance with REQ-018 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "contradiction",
+    "scope_justification": null,
+    "contradiction": true
+  },
+  {
+    "requirement_id": "REQ-018",
+    "bidder_id": "BIDDER-2",
+    "category": "evaluation",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 4.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-018 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=1",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-018",
+    "bidder_id": "BIDDER-3",
+    "category": "evaluation",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 4.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=3",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-018 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=2",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-019",
+    "bidder_id": "BIDDER-1",
+    "category": "scope",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 4.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-019 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=1",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-019",
+    "bidder_id": "BIDDER-2",
+    "category": "scope",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 4.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-019 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=2",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-019",
+    "bidder_id": "BIDDER-3",
+    "category": "scope",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 4.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-019 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=3",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-020",
+    "bidder_id": "BIDDER-1",
+    "category": "technical",
+    "mandatory": false,
+    "status": "met",
+    "tender_reference": "Clause 4.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-020 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=2",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-020",
+    "bidder_id": "BIDDER-2",
+    "category": "technical",
+    "mandatory": false,
+    "status": "met",
+    "tender_reference": "Clause 4.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-020 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=3",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-020",
+    "bidder_id": "BIDDER-3",
+    "category": "technical",
+    "mandatory": false,
+    "status": "met",
+    "tender_reference": "Clause 4.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-020 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=4",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-021",
+    "bidder_id": "BIDDER-1",
+    "category": "submission",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 5.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-021 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=3",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-021",
+    "bidder_id": "BIDDER-2",
+    "category": "submission",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 5.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-021 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=4",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-021",
+    "bidder_id": "BIDDER-3",
+    "category": "submission",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 5.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-3 addresses REQ-021 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=5",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-021 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-022",
+    "bidder_id": "BIDDER-1",
+    "category": "deadline",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 5.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-022 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=4",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-022",
+    "bidder_id": "BIDDER-2",
+    "category": "deadline",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 5.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-2 addresses REQ-022 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=5",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-022 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-022",
+    "bidder_id": "BIDDER-3",
+    "category": "deadline",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 5.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-3 addresses REQ-022 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=1",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-022 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-023",
+    "bidder_id": "BIDDER-1",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 5.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-1 addresses REQ-023 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=5",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-023 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-023",
+    "bidder_id": "BIDDER-2",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 5.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-2 addresses REQ-023 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=1",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-023 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-023",
+    "bidder_id": "BIDDER-3",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "not met",
+    "tender_reference": "Clause 5.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-3 expressly excludes REQ-023 from the offered scope.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=2",
+    "rationale": "Bidder evidence contains an explicit exclusion, rejection, or conflicting commitment.",
+    "unresolved_question": "Please clarify compliance with REQ-023 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "exclusion",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-024",
+    "bidder_id": "BIDDER-1",
+    "category": "evaluation",
+    "mandatory": false,
+    "status": "partially met",
+    "tender_reference": "Clause 5.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-1 addresses REQ-024 but makes the commitment conditional on final design confirmation.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=1",
+    "rationale": "The bidder addresses the requirement but only partially or conditionally.",
+    "unresolved_question": "Please clarify compliance with REQ-024 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "qualification",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-024",
+    "bidder_id": "BIDDER-2",
+    "category": "evaluation",
+    "mandatory": false,
+    "status": "not met",
+    "tender_reference": "Clause 5.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": "BIDDER-2 expressly excludes REQ-024 from the offered scope.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=2",
+    "rationale": "Bidder evidence contains an explicit exclusion, rejection, or conflicting commitment.",
+    "unresolved_question": "Please clarify compliance with REQ-024 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "exclusion",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-024",
+    "bidder_id": "BIDDER-3",
+    "category": "evaluation",
+    "mandatory": false,
+    "status": "not evidenced",
+    "tender_reference": "Clause 5.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=4",
+    "bid_evidence": null,
+    "bid_source": null,
+    "rationale": "No sufficient bidder evidence was found in the searched bid documents.",
+    "unresolved_question": "Please clarify compliance with REQ-024 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-025",
+    "bidder_id": "BIDDER-1",
+    "category": "scope",
+    "mandatory": true,
+    "status": "not met",
+    "tender_reference": "Clause 5.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-1 expressly excludes REQ-025 from the offered scope.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=2",
+    "rationale": "Bidder evidence contains an explicit exclusion, rejection, or conflicting commitment.",
+    "unresolved_question": "Please clarify compliance with REQ-025 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "exclusion",
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-025",
+    "bidder_id": "BIDDER-2",
+    "category": "scope",
+    "mandatory": true,
+    "status": "not evidenced",
+    "tender_reference": "Clause 5.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": null,
+    "bid_source": null,
+    "rationale": "No sufficient bidder evidence was found in the searched bid documents.",
+    "unresolved_question": "Please clarify compliance with REQ-025 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-025",
+    "bidder_id": "BIDDER-3",
+    "category": "scope",
+    "mandatory": true,
+    "status": "not applicable",
+    "tender_reference": "Clause 5.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-3 scope schedule confirms the optional subsystem is excluded from tendered scope.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=4",
+    "rationale": "Recorded scope justification confirms the requirement does not apply to this bidder's offered scope.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": "REQ-025 applies only to an optional subsystem not included in BIDDER-3 scope.",
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-026",
+    "bidder_id": "BIDDER-1",
+    "category": "technical",
+    "mandatory": true,
+    "status": "not evidenced",
+    "tender_reference": "Clause 6.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": null,
+    "bid_source": null,
+    "rationale": "No sufficient bidder evidence was found in the searched bid documents.",
+    "unresolved_question": "Please clarify compliance with REQ-026 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-026",
+    "bidder_id": "BIDDER-2",
+    "category": "technical",
+    "mandatory": true,
+    "status": "not applicable",
+    "tender_reference": "Clause 6.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-2 scope schedule confirms the optional subsystem is excluded from tendered scope.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=4",
+    "rationale": "Recorded scope justification confirms the requirement does not apply to this bidder's offered scope.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": "REQ-026 applies only to an optional subsystem not included in BIDDER-2 scope.",
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-026",
+    "bidder_id": "BIDDER-3",
+    "category": "technical",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 6.1",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-3 states compliance with REQ-026 in the technical response but a later schedule contains a conflicting limitation.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=5",
+    "rationale": "Supporting and contradictory statements are both present, so full compliance is not established.",
+    "unresolved_question": "Please clarify compliance with REQ-026 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": "contradiction",
+    "scope_justification": null,
+    "contradiction": true
+  },
+  {
+    "requirement_id": "REQ-027",
+    "bidder_id": "BIDDER-1",
+    "category": "submission",
+    "mandatory": true,
+    "status": "not applicable",
+    "tender_reference": "Clause 6.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-1 scope schedule confirms the optional subsystem is excluded from tendered scope.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=4",
+    "rationale": "Recorded scope justification confirms the requirement does not apply to this bidder's offered scope.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": "REQ-027 applies only to an optional subsystem not included in BIDDER-1 scope.",
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-027",
+    "bidder_id": "BIDDER-2",
+    "category": "submission",
+    "mandatory": true,
+    "status": "partially met",
+    "tender_reference": "Clause 6.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-2 states compliance with REQ-027 in the technical response but a later schedule contains a conflicting limitation.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=5",
+    "rationale": "Supporting and contradictory statements are both present, so full compliance is not established.",
+    "unresolved_question": "Please clarify compliance with REQ-027 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": "contradiction",
+    "scope_justification": null,
+    "contradiction": true
+  },
+  {
+    "requirement_id": "REQ-027",
+    "bidder_id": "BIDDER-3",
+    "category": "submission",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 6.2",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-027 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=1",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-028",
+    "bidder_id": "BIDDER-1",
+    "category": "deadline",
+    "mandatory": false,
+    "status": "partially met",
+    "tender_reference": "Clause 6.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-1 states compliance with REQ-028 in the technical response but a later schedule contains a conflicting limitation.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=5",
+    "rationale": "Supporting and contradictory statements are both present, so full compliance is not established.",
+    "unresolved_question": "Please clarify compliance with REQ-028 and provide supporting evidence.",
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": "contradiction",
+    "scope_justification": null,
+    "contradiction": true
+  },
+  {
+    "requirement_id": "REQ-028",
+    "bidder_id": "BIDDER-2",
+    "category": "deadline",
+    "mandatory": false,
+    "status": "met",
+    "tender_reference": "Clause 6.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-028 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=1",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-028",
+    "bidder_id": "BIDDER-3",
+    "category": "deadline",
+    "mandatory": false,
+    "status": "met",
+    "tender_reference": "Clause 6.3",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-028 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=2",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-029",
+    "bidder_id": "BIDDER-1",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 6.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-029 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=1",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-029",
+    "bidder_id": "BIDDER-2",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 6.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-029 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=2",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-029",
+    "bidder_id": "BIDDER-3",
+    "category": "commercial",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 6.4",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-029 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=3",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-030",
+    "bidder_id": "BIDDER-1",
+    "category": "evaluation",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 6.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-1 confirms compliance with REQ-030 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_1_submission.pdf#page=2",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_1_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-030",
+    "bidder_id": "BIDDER-2",
+    "category": "evaluation",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 6.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-2 confirms compliance with REQ-030 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_2_submission.pdf#page=3",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_2_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  },
+  {
+    "requirement_id": "REQ-030",
+    "bidder_id": "BIDDER-3",
+    "category": "evaluation",
+    "mandatory": true,
+    "status": "met",
+    "tender_reference": "Clause 6.5",
+    "tender_source": "development_tender/tender_requirements.pdf#page=5",
+    "bid_evidence": "BIDDER-3 confirms compliance with REQ-030 using equivalent terminology and project-specific wording.",
+    "bid_source": "development_tender/bidder_3_submission.pdf#page=4",
+    "rationale": "The bidder provides explicit evidence satisfying the stated requirement.",
+    "unresolved_question": null,
+    "searched_documents": [
+      "development_tender/bidder_3_submission.pdf"
+    ],
+    "deviation_type": null,
+    "scope_justification": null,
+    "contradiction": false
+  }
+]

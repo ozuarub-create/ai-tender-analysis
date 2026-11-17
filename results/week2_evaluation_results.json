@@ -1,0 +1,49 @@
+{
+  "total_pairs": 90,
+  "correct_pairs": 90,
+  "exact_status_agreement": 1.0,
+  "per_status_accuracy": {
+    "met": 1.0,
+    "partially met": 1.0,
+    "not met": 1.0,
+    "not evidenced": 1.0,
+    "not applicable": 1.0
+  },
+  "confusion_matrix": {
+    "met": {
+      "met": 36,
+      "partially met": 0,
+      "not met": 0,
+      "not evidenced": 0,
+      "not applicable": 0
+    },
+    "partially met": {
+      "met": 0,
+      "partially met": 27,
+      "not met": 0,
+      "not evidenced": 0,
+      "not applicable": 0
+    },
+    "not met": {
+      "met": 0,
+      "partially met": 0,
+      "not met": 9,
+      "not evidenced": 0,
+      "not applicable": 0
+    },
+    "not evidenced": {
+      "met": 0,
+      "partially met": 0,
+      "not met": 0,
+      "not evidenced": 9,
+      "not applicable": 0
+    },
+    "not applicable": {
+      "met": 0,
+      "partially met": 0,
+      "not met": 0,
+      "not evidenced": 0,
+      "not applicable": 9
+    }
+  }
+}
